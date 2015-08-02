@@ -39,7 +39,11 @@
           "option1": "Pink",
           "fulfillment_service": "manual",
           "option2": null,
-          "option3": null
+          "option3": null,
+          "old_inventory_quantity": 10,
+          "barcode": "123456123456",
+          "weight": 0.0,
+          "weight_unit": "oz"
         },
         {
           "position": 2,
@@ -59,7 +63,11 @@
           "option1": "Red",
           "fulfillment_service": "manual",
           "option2": null,
-          "option3": null
+          "option3": null,
+          "old_inventory_quantity": 10,
+          "barcode": "123456123456",
+          "weight": 0.0,
+          "weight_unit": "oz"
         },
         {
           "position": 3,
@@ -79,7 +87,11 @@
           "option1": "Green",
           "fulfillment_service": "manual",
           "option2": null,
-          "option3": null
+          "option3": null,
+          "old_inventory_quantity": 10,
+          "barcode": "123456123456",
+          "weight": 0.0,
+          "weight_unit": "oz"
         },
         {
           "position": 4,
@@ -99,7 +111,11 @@
           "option1": "Black",
           "fulfillment_service": "manual",
           "option2": null,
-          "option3": null
+          "option3": null,
+          "old_inventory_quantity": 10,
+          "barcode": "123456123456",
+          "weight": 0.0,
+          "weight_unit": "oz"
         }
       ],
       "vendor": "Apple",
